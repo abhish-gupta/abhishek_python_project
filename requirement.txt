@@ -1,0 +1,24 @@
+Python Project
+
+Name - Banking Application
+
+Purpose and Scope - 
+	This application has functions like login, signup, exit, debit, credit, balance which are related to a banking system.
+These functions will work upon user's choice.
+
+Goals - 
+	The goal of this application will be like an user will be able to login to the banking application and then he can withdraw or credit money and he can also check his available balance in his account.
+A new user can also sign up through this application. 
+
+Uses - 
+	In the login function, user will be able to login to the application
+then he will get options like debit, credit and show balance.
+
+In debit function, user will enter some amount and then he will see his remaining balance.
+
+In credit function, user will enter some amount and he will be able to check his updated balance.
+
+In the sign up function, user can create a new account and will get his account number.
+
+Constraints - 
+	User will be able to use login, signup and exit functions but will not be able to use forgot password function.  
