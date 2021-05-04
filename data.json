@@ -1,0 +1,56 @@
+[
+    {
+        "acc_no": 1001,
+        "name": "abhishek",
+        "add": "jaipur",
+        "bal": 1000,
+        "ph_no": "9057182852",
+        "email": "abhishek@gmail.com",
+        "pas": "abhishek"
+    },
+    {
+        "acc_no": 1002,
+        "name": "vikas",
+        "add": "delhi",
+        "bal": 2000,
+        "ph_no": "8209065836",
+        "email": "vikas@gmail.com",
+        "pas": "vikas123"
+    },
+    {
+        "acc_no": 1003,
+        "name": "rahul",
+        "add": "noida",
+        "bal": 5000,
+        "ph_no": "85847592565",
+        "email": "rahul@gmail.com",
+        "pas": "rahul123"
+    },
+    {
+        "acc_no": 1004,
+        "name": "manish",
+        "add": "chennai",
+        "bal": 5000,
+        "ph_no": "9851472581",
+        "pas": "1JUAyPPn",
+        "email": "manish@gmail.com"
+    },
+    {
+        "acc_no": 1005,
+        "name": "gagan",
+        "add": "jaipur",
+        "bal": 6000,
+        "ph_no": "9887145263",
+        "pas": "oaU1NPof",
+        "email": "gagan@yahoo.com"
+    },
+    {
+        "acc_no": 1006,
+        "name": "aman",
+        "add": "abs",
+        "bal": 6000,
+        "ph_no": "4845",
+        "pas": "hdbhbhdjb",
+        "email": "bshdbhd"
+    }
+]
