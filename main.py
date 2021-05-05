@@ -10,27 +10,9 @@ class Users:
             json.dump(data1, f, indent=4)
 
     def read_file(self):
-        i = 0
         with open("data.json", "r") as f:
             temp = json.load(f)
-        for entry in temp:
-            acc_no = entry["acc_no"]
-            name = entry["name"]
-            add = entry["add"]
-            bal = entry["bal"]
-            ph_no = entry["ph_no"]
-            pas = entry["pas"]
-            email = entry["email"]
-            print(f"i : {i}")
-            print(f"acc_no : {acc_no}")
-            print(f"name : {name}")
-            print(f"address : {add}")
-            print(f"balance : {bal}")
-            print(f"mobile : {ph_no}")
-            print(f"pas : {pas}")
-            print(f"email : {email}")
-            print("")
-            i = i + 1
+        [print(x) for x in temp]
 
     def update_data(self, filename="data.json"):
         self.read_file()
